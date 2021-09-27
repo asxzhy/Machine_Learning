@@ -1,8 +1,6 @@
-# Machine_Learning
+# Machine Learning
 
-This repository is used for the recording of the learning process with ML.
-
-Follows the tutorial made by codebasics.
+This folder records the process of me learning machine learning following the tutorial made by codebasics.
 
 YouTube Channel: https://www.youtube.com/c/codebasics
 GitHub: https://github.com/codebasics/py
